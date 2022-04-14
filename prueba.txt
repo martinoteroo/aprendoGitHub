@@ -4,3 +4,6 @@ En este mismo archivo voy a hacer dos cosas:
 
 APUNTES //===========================================================:
 
+·Tengo en favoritos de gitHUb un archivo que contiene todos los comandos de git y de gitHub, 
+viene muy bien para recordar los comandos y todo porque ya es dificil, eso si, hice un rm
+y me cargué los apuntes que tenía hasta ahora ;) genial amigo, poco a poco voy aprendiendo no hay problema.
