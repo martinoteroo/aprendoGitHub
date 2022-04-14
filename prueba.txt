@@ -11,3 +11,5 @@ y me cargué los apuntes que tenía hasta ahora ;) genial amigo, poco a poco voy
 
 ·git checkout (id de la version) // te lleva a la version que tu indiques copiando el codifo
 .git log (archivo) // te dice todo lo que has hecho los cambios con sus id etc
+·git branch (nombredelbranch)  /crea una nueva rama de trabajo
+·CHECKOUT (NOMBREBRANCH), en este caso cambiamos de branch
