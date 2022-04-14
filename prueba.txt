@@ -13,3 +13,7 @@ y me cargué los apuntes que tenía hasta ahora ;) genial amigo, poco a poco voy
 .git log (archivo) // te dice todo lo que has hecho los cambios con sus id etc
 ·git branch (nombredelbranch)  /crea una nueva rama de trabajo
 ·CHECKOUT (NOMBREBRANCH), en este caso cambiamos de branch
+
+.'q' para salir del log y cosas asi
+.'esc' 'i' para editar en vim
+'esc' shift 'z''z' para guardar 
