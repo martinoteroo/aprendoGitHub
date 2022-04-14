@@ -1,1 +1,2 @@
 probando un poco con git antes de entrar a github
+ahora voy a hacer el segundo commit
