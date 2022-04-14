@@ -10,6 +10,8 @@ ya que estoy trabajando por primera vez con dos ramas
 y estas son las modificaciones que están haciéndose en el master
 
 
+(git graph  --->  para ver las ramas en forma de grafico)
+
 APUNTES //===========================================================:
 
 
