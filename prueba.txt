@@ -2,6 +2,11 @@ En este mismo archivo voy a hacer dos cosas:
     -Apuntar los comandos/apuntes que vaya aprendiendo sobre git
     -Crear copias y commits de cada versión que haga para ir probando los comandos de git.
 
+en este hueco de aqui voy a ir metiendo cambios
+ya que estoy trabajando por primera vez con dos ramas
+y estas son las modificaciones que están haciéndose en el master
+
+
 APUNTES //===========================================================:
 
 ·Tengo en favoritos de gitHUb un archivo que contiene todos los comandos de git y de gitHub, 
