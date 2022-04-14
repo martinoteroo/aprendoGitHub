@@ -7,3 +7,7 @@ APUNTES //===========================================================:
 ·Tengo en favoritos de gitHUb un archivo que contiene todos los comandos de git y de gitHub, 
 viene muy bien para recordar los comandos y todo porque ya es dificil, eso si, hice un rm
 y me cargué los apuntes que tenía hasta ahora ;) genial amigo, poco a poco voy aprendiendo no hay problema.
+
+
+·git checkout (id de la version) // te lleva a la version que tu indiques copiando el codifo
+.git log (archivo) // te dice todo lo que has hecho los cambios con sus id etc
