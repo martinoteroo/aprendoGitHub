@@ -18,3 +18,8 @@ y me cargué los apuntes que tenía hasta ahora ;) genial amigo, poco a poco voy
 .'esc' 'i' para editar en vim
 'esc' shift 'z''z' para guardar 
 tienes que hacer commit siempre que vayas a hacer checkout a fuera 
+
+
+si le das checkout para cambiar de rama tu archivo cambiará en tiempo real perdiendo los cambios, wowo
+AHORA VIENE el moemnto de hacer un:
+git merge eso es 
