@@ -1,3 +1,6 @@
+TITULO: Mi master 
+
+
 En este mismo archivo voy a hacer dos cosas:
     -Apuntar los comandos/apuntes que vaya aprendiendo sobre git
     -Crear copias y commits de cada versión que haga para ir probando los comandos de git.
