@@ -17,3 +17,4 @@ y me cargué los apuntes que tenía hasta ahora ;) genial amigo, poco a poco voy
 .'q' para salir del log y cosas asi
 .'esc' 'i' para editar en vim
 'esc' shift 'z''z' para guardar 
+tienes que hacer commit siempre que vayas a hacer checkout a fuera 
