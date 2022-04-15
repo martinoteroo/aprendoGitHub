@@ -11,6 +11,7 @@ y estas son las modificaciones que están haciéndose en el master
 
 
 (git graph  --->  para ver las ramas en forma de grafico)
+(¿Por qué al hacer un merge se me juntan mal el main y el master?)
 
 APUNTES //===========================================================:
 
