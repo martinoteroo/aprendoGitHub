@@ -93,3 +93,7 @@ tienes que hacer commit siempre que vayas a hacer checkout a fuera
 si le das checkout para cambiar de rama tu archivo cambiará en tiempo real perdiendo los cambios, wowo
 AHORA VIENE el moemnto de hacer un:
 git merge eso es 
+
+GITHUB /=================
+
+·git remote add origin (url)  añadimos el repositorio de gitHub
